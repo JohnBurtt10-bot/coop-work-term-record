@@ -8,17 +8,15 @@ This repository hosts my Co-op Work Term Record document.
 - **File**: [20955214_wtr.pdf](./20955214_wtr.pdf)
 - **Size**: ~15KB
 - **Pages**: 1 page
-- **Direct Link**: `https://raw.githubusercontent.com/[YOUR_USERNAME]/coop-work-term-record/main/20955214_wtr.pdf`
+- **Direct Link**: `https://raw.githubusercontent.com/JohnBurtt10-bot/coop-work-term-record/main/20955214_wtr.pdf`
 
 ## Usage
 
 To access the Co-op Work Term Record directly in your browser or applications, use the raw GitHub URL:
 
 ```
-https://raw.githubusercontent.com/[YOUR_USERNAME]/coop-work-term-record/main/20955214_wtr.pdf
+https://raw.githubusercontent.com/JohnBurtt10-bot/coop-work-term-record/main/20955214_wtr.pdf
 ```
-
-Replace `[YOUR_USERNAME]` with your actual GitHub username.
 
 ## About
 
